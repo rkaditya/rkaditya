@@ -74,10 +74,7 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rkaditya&show_icons=true&locale=en" alt="rkaditya" /></p>
 
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rkaditya&" alt="rkaditya" /></p>
 
 ### Show some ❤️ by starring some of the repositories!
 
