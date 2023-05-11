@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AWS services and DevOps tools**
 
-- 📫 How to reach me **adityatak443@gmail.com**
+- 📫 How to reach me **adityatak44@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
