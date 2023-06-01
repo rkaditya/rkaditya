@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rkaditya&label=Profile%20views&color=0e75b6&style=flat" alt="rkaditya" /> </p>
 
-- 🌱 I’m currently learning **AWS and DevOps**
+- 🌱 I’m currently Working on **AWS and DevOps**
 
 - 📝 I regularly write articles on [https://adityatak.hashnode.dev/](https://adityatak.hashnode.dev/)
 
